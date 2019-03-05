@@ -1,0 +1,12 @@
+.clr-form-compact {
+  .clr-control-container {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: center;
+      margin-top: 0;
+
+      .clr-input-wrapper {
+        margin-right: 1rem;
+      }
+    }
+}
